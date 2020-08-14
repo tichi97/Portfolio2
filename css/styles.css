@@ -24,6 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
+  /*--primary: #fed136;*/
   --primary: #fed136;
   --secondary: #6c757d;
   --success: #28a745;
@@ -10140,7 +10141,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/headerbg.jpg");
+  background-image: url("../assets/img/headerbg.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
